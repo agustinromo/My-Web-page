@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */ 
+
+@font-face {
+    font-family: 'Grafiti';
+    src: url('misFonts/font1/Calligraffiti-webfont.eot');
+    src: url('misFonts/font1/Calligraffiti-webfont.eot?#iefix') format('eot'),
+
+url('misFonts/font1/Calligraffiti-webfont.woff') format('woff'),
+url('misFonts/font1/Calligraffiti-webfont.ttf') format('truetype'),
+url('misFonts/font1/Calligraffiti-webfont.svg#Calligraffiti') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Qarmic';
+    src: url('misFonts/font2/Qarmic_sans_Abridged-webfont.eot');
+    src: url('misFonts/font2/Qarmic_sans_Abridged-webfont.eot?#iefix') format('eot'),
+
+url('misFonts/font2/Qarmic_sans_Abridged-webfont.woff') format('woff'),
+url('misFonts/font2/Qarmic_sans_Abridged-webfont.ttf') format('truetype'),
+url('misFonts/font2/Qarmic_sans_Abridged-webfont.svg#Calligraffiti') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Moms';
+    src: url('misFonts/font3/Moms_typewriter-webfont.eot');
+    src: url('misFonts/font3/Moms_typewriter-webfont.eot?#iefix') format('eot'),
+
+url('misFonts/font3/Moms_typewriter-webfont.woff') format('woff'),
+url('misFonts/font3/Moms_typewriter-webfont.ttf') format('truetype'),
+url('misFonts/font3/Moms_typewriter-webfont.svg#Calligraffiti') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} 
+.calif{
+	font-family: 'Grafiti'; 
+	color:white; 
+}
+.Q{
+	font-family: 'Qarmic'; 
+	color:black; 
+}
+.Mom{
+	font-family: 'Moms'; 
+}

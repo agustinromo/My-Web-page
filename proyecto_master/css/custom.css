@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { padding-top: 70px;
+		background-color:#A6A5D0;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #33b75f;
+    border-color: #2ea46e;
+    transition: all 400ms ease;
+}
+
+.btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active.focus,.btn-primary.active:focus,.btn-primary.active:hover,.btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>.dropdown-toggle.btn-primary.focus,.open>.dropdown-toggle.btn-primary:focus,.open>.dropdown-toggle.btn-primary:hover {
+    color: #cec630;
+    background-color: #074e27;
+    border-color: #087733;
+} 
+
+.navbar-inverse {
+    background-color: #1a2365;
+    border-color: #080808;
+}

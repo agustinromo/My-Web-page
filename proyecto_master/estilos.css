@@ -1,0 +1,215 @@
+@charset "utf-8";
+
+body{
+	background-image: url("imgs/elec2.jpg");
+	background-attachment: fixed;
+		}
+.nav, .navbar-nav{
+	margin-left: 350px;
+}
+
+.inicio{
+	background-color: #000000c7;
+	padding-top: 100px;
+	color: antiquewhite;
+	padding-bottom: 315px;
+}
+.h1{
+	margin-top: 100px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: antiquewhite;
+	font-size: 70px;
+	text-align: center;
+}
+#msj{
+	text-align: center;
+}
+#bttn{
+	color: black;
+   /* margin-left: 590PX;*/
+    background-color: #fdbf30;
+	border-radius: 10px;
+	transition: all 400ms ease;
+}
+#bttn:hover{
+		color:#E1DA0C;
+		background: black;
+		transform: translateY(4px);	
+	}
+.ir-arriba {
+	padding:20px;
+	/*background:#024959;*/
+	color:#2CC7C0;
+	position: fixed;
+	font-size:55px;
+	bottom:20px;
+	right:20px;
+	display:none;
+	cursor:pointer; /*<a></a>*/
+}
+#intro{
+	background-color: #d8d8d8de;
+	padding-bottom: 80px;
+}
+#letrero, #letrero2, #letrero4{
+	color: #111111;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 50px;
+}
+#intro2{
+	padding-top: 100px; 
+	text-align: center; 
+	font-size: 20px;
+}
+.dos{
+	text-align: center;
+	font-size: 20px;
+}
+/*.slogo{
+	margin-left: 380px;
+}*/
+#servicio{
+	background-color: aliceblue;
+	padding-bottom: 550px;
+}
+.descrip{
+	text-align: center;
+	color: #363636;
+}
+.media1{
+		margin-top: 30px;
+		width: 440px;
+	}
+.media2{
+		margin-top: 30px; /*10px*/
+	}
+.media3{
+		margin-top: 30px;
+		width: 440px;
+	}
+.media4{
+		margin-top: 30px;
+	}
+.media5{
+		margin-top: 30px;
+		width: 440px;
+	}
+.media6{
+		margin-top: 30px;
+	}
+.texto{
+		color: #000000;
+		text-align: left;
+	}
+.sbtn{
+		color: antiquewhite;
+		background-color: darkmagenta;
+		border-radius: 20px;
+		transition: all 400ms ease;
+	}
+.sbtn2{
+		margin-top: 0px;
+		color: antiquewhite;
+		background-color: darkmagenta;
+		border-radius: 20px;
+		transition: all 400ms ease;
+	}
+.sbtn4{
+		margin-top: 20px;
+		color: antiquewhite;
+		background-color: darkmagenta;
+		border-radius: 20px;
+		transition: all 400ms ease;
+	}
+.sbtn6{
+		margin-top: 20px;
+		color: antiquewhite;
+		background-color: darkmagenta;
+		border-radius: 20px;
+		transition: all 400ms ease;
+	}
+.sbtn:hover{
+		color:#E1DA0C;
+		background: black;
+}
+.sbtn2:hover{
+		color:#E1DA0C;
+		background: black;
+}
+.sbtn4:hover{
+		color:#E1DA0C;
+		background: black;
+}
+.sbtn6:hover{
+		color:#E1DA0C;
+		background: black;
+}
+#disenios{
+		background-color: #171717;
+		padding-bottom: 400px;
+	
+}
+#letrero3{
+		color: #AAAAAA;
+		text-align: center;
+		margin-top: 0px;
+		padding-top: 100px;
+}
+/*#carousel-example-generic, .carousel, .slide{
+	width: 899px;
+	height: 500px;
+	margin-left: 182px;
+}*/
+#contacto{
+	background-color: #d8d8d8de;
+	padding-bottom: 400px;
+}
+#salto{
+	text-align: center;
+	color: #979797;
+	font-size: 30px;
+}
+/*.form-inline{
+	margin-top: 25px;
+}
+.nomb{
+	margin-left: 360px;
+}
+.mail{
+	margin-left: 8px;
+}
+#cuadro{
+	width: 510px;
+	height: 150px;
+	margin-top: 30px; 
+	margin-left: 360px;
+}*/
+.btn-default{
+	margin-top: 130px;
+	transition: all 400ms ease;
+}
+.btn-default:hover{
+	color: #FFFFFF;
+	background-color: #000000;
+}
+.izq, .icon-facebook{
+	text-align: center;
+	font-size: 20px;
+	
+}
+#fin{
+	background-color: #1F1F1F;
+	padding-bottom: 300px;
+}
+.Mom, #letrero5{ 
+	font-size: 50px;
+	color: #051F83;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 80px;
+}
+#anio{
+	color: aliceblue;
+	text-align: center;
+}
